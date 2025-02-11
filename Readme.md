@@ -12,18 +12,21 @@ We are committed to excellence, innovation, and creating value for our clients a
 ## Technologies We Use
 - **Programming Languages:**Python, PHP, JavaScript,
 - **Frameworks:** React, Angular, Django, Spring Bootstrap
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Cloud Platforms:** AWS, Azure, Google Cloud
-- **DevOps Tools:** Docker, Kubernetes, Jenkins, Terraform
-- **Cybersecurity Tools:** Wireshark, Metasploit, Burp Suite
-
+- **Databases:** MySQL,
+- **Cloud Platforms:** AWS, Google Cloud
+- **DevOps Tools:** Docker, 
+- **Cybersecurity Tools:** Metasploit, Burp Suite 
 ---
+## Samples 
+### Dashboard.
 
-## Our Team
-We are a team of passionate and skilled professionals dedicated to delivering excellence. Meet our leadership:
-- **[Mahmud Abubakar]:** CEO & Founder
-- **[Kabiru Muhammad]:** 
-- **[Abba]:** Software Engineer 
+![Dashboard Image](https://github.com/user-attachments/assets/a015a61c-7b0d-4fe4-9a24-899f019dd218)
+
+### profile 
+![Profile Page](https://github.com/user-attachments/assets/6622133d-8cb1-448d-b6d3-4a1eee41355d)
+
+### Detection Analysis 
+![Detection Chart Report](https://github.com/user-attachments/assets/2f3f2f4c-8434-4187-8fb1-c9dd5ae8a1ea)
 
 ---
 
