@@ -10,7 +10,7 @@ We are committed to excellence, innovation, and creating value for our clients a
 ---
 
 ## Technologies We Use
-- **Programming Languages:**Python, PHP, JavaScript,
+- **Programming Languages:** Python, PHP, JavaScript,
 - **Frameworks:** React, Angular, Django, Spring Bootstrap
 - **Databases:** MySQL,
 - **Cloud Platforms:** AWS, Google Cloud
